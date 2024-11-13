@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+jar {
+    enabled = false
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    group = 'com.blaze'
+    version = '1.0-SNAPSHOT'
+    sourceCompatibility = '17'
+
+    repositories {
+        mavenCentral()
+    }
+
+    test {
+        useJUnitPlatform()
+    }
+
+    dependencies {
+    }
+
+}

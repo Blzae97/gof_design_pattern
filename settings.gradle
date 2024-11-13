@@ -1,0 +1,3 @@
+rootProject.name = 'designPattern'
+include 'chapter1'
+
