@@ -1,3 +1,4 @@
 rootProject.name = 'designPattern'
 include 'chapter1'
+include 'chapter2'
 
