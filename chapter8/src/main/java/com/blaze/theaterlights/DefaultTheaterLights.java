@@ -1,4 +1,4 @@
-package com.blaze.movie.theaterlights;
+package com.blaze.theaterlights;
 
 public class DefaultTheaterLights extends TheaterLights {
 

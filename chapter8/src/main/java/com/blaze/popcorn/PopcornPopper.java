@@ -1,4 +1,4 @@
-package com.blaze.movie.popcorn;
+package com.blaze.popcorn;
 
 public abstract class PopcornPopper {
     public abstract void on();

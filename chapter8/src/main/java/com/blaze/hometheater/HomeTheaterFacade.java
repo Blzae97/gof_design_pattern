@@ -1,12 +1,12 @@
 package com.blaze.hometheater;
 
-import com.blaze.movie.amplifier.Amplifier;
-import com.blaze.movie.amplifier.Projector;
-import com.blaze.movie.amplifier.StreamingPlayer;
-import com.blaze.movie.amplifier.Tuner;
-import com.blaze.movie.popcorn.PopcornPopper;
-import com.blaze.movie.screen.Screen;
-import com.blaze.movie.theaterlights.TheaterLights;
+import com.blaze.amplifier.Amplifier;
+import com.blaze.amplifier.Projector;
+import com.blaze.amplifier.StreamingPlayer;
+import com.blaze.amplifier.Tuner;
+import com.blaze.popcorn.PopcornPopper;
+import com.blaze.screen.Screen;
+import com.blaze.theaterlights.TheaterLights;
 
 public class HomeTheaterFacade {
     private final Amplifier amplifier;

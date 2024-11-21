@@ -1,4 +1,4 @@
-package com.blaze.movie.popcorn;
+package com.blaze.popcorn;
 
 public class DefaultPopcornPopper extends PopcornPopper {
     @Override

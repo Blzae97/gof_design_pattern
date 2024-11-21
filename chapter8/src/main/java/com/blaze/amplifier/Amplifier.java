@@ -1,4 +1,4 @@
-package com.blaze.movie.amplifier;
+package com.blaze.amplifier;
 
 public abstract class Amplifier {
     private Tuner tuner;

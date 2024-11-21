@@ -1,4 +1,4 @@
-package com.blaze.movie.screen;
+package com.blaze.screen;
 
 public class DefaultScreen extends Screen {
     @Override
